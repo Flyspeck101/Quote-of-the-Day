@@ -15,5 +15,5 @@ document.getElementById("quote").innerText = ([
   "Don't compare yourself to others. They aren't you.",
   "Your dreams are your own.",
   "Don't disregard the advice of others. Try to understand them.",
-  "
+  ""
 ])[(new Date()).getDate() - 1];
